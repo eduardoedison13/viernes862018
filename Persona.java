@@ -3,3 +3,4 @@ String nombre;
 String apellido;
 String tipoSang;
 
+String estadoCivil;
